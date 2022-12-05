@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/JaeKP/image_repo/main/img/image-20221007115830334.png" alt="logo"/> 
 
-### 🌊 https://purgae.net/
+### 🌊 https://purgae.net/ (현재는 free tier 문제로 잠시 서비스 중단)
 
 PC환경으로 제작되었습니다. 반응형 페이지가 적용되어 있습니다.
 
